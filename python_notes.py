@@ -44,4 +44,6 @@ current_day = now.day
 print("The year is " + str(now.year))
 print("The month is " + str(now.month))
 print("Today is the "+ str(now.day) + "th") #prints our date
-------------------------
+----------------------
+#double equal signs means if something is equal to another thing or not
+# one equal sign assigns a variable
